@@ -1,0 +1,6 @@
+.:
+filelist.txt
+startrom.0
+winrc.iso
+winrc.menu
+winrc.sdi

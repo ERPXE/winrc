@@ -1,0 +1,6 @@
+LABEL WINXPRC
+MENU LABEL ^Windows XP Recovery Console
+KERNEL er/plugins/winrc/startrom.0
+TEXT HELP
+                 Windows XP - Recovery Console.
+ENDTEXT

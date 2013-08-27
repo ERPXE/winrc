@@ -1,0 +1,4 @@
+[SetupData]
+BootDevice = "ramdisk(0)"
+BootPath = "\i386\"
+OsLoadOptions = "/noguiboot /fastdetect /rdimageoffset=36352 /rdpath=er\plugins\winrc\winrc.sdi"
